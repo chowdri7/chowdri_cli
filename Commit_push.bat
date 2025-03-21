@@ -1,7 +1,7 @@
 @echo off
 echo.
 echo ===============================
-echo     Commit & Push to GitHub
+echo     Commit - Push to GitHub
 echo ===============================
 echo.
 
