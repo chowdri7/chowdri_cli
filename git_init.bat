@@ -4,7 +4,6 @@ echo ===============================
 echo   Create New GitHub Repo
 echo ===============================
 echo/
-
 REM Get repository name
 set "reponame="
 set /p "reponame=Enter new GitHub repository name: "
